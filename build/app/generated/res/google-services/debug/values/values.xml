@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">315260857134-5m9k2s0ul23fvdk9of0rbe026157jmai.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">315260857134</string>
+    <string name="google_api_key" translatable="false">AIzaSyCIkxNAi_JYiZcB6dpGpVhm3YuDE4MDoik</string>
+    <string name="google_app_id" translatable="false">1:315260857134:android:726084b2b66c8cfde528bf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIkxNAi_JYiZcB6dpGpVhm3YuDE4MDoik</string>
+    <string name="google_storage_bucket" translatable="false">be-your-shopper.appspot.com</string>
+    <string name="project_id" translatable="false">be-your-shopper</string>
+</resources>
